@@ -1,0 +1,11 @@
+/Users/admin/Projects/WarriorGame/WarriorGame/bin/Debug/netcoreapp2.0/WarriorGame.deps.json
+/Users/admin/Projects/WarriorGame/WarriorGame/bin/Debug/netcoreapp2.0/WarriorGame.runtimeconfig.json
+/Users/admin/Projects/WarriorGame/WarriorGame/bin/Debug/netcoreapp2.0/WarriorGame.runtimeconfig.dev.json
+/Users/admin/Projects/WarriorGame/WarriorGame/bin/Debug/netcoreapp2.0/WarriorGame.dll
+/Users/admin/Projects/WarriorGame/WarriorGame/bin/Debug/netcoreapp2.0/WarriorGame.pdb
+/Users/admin/Projects/WarriorGame/WarriorGame/obj/Debug/netcoreapp2.0/WarriorGame.csprojResolveAssemblyReference.cache
+/Users/admin/Projects/WarriorGame/WarriorGame/obj/Debug/netcoreapp2.0/WarriorGame.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/WarriorGame/WarriorGame/obj/Debug/netcoreapp2.0/WarriorGame.AssemblyInfoInputs.cache
+/Users/admin/Projects/WarriorGame/WarriorGame/obj/Debug/netcoreapp2.0/WarriorGame.AssemblyInfo.cs
+/Users/admin/Projects/WarriorGame/WarriorGame/obj/Debug/netcoreapp2.0/WarriorGame.dll
+/Users/admin/Projects/WarriorGame/WarriorGame/obj/Debug/netcoreapp2.0/WarriorGame.pdb
